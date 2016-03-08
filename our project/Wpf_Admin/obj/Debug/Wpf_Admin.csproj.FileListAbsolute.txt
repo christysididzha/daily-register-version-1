@@ -1,0 +1,107 @@
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.exe.config
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.exe
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.pdb
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.csprojResolveAssemblyReference.cache
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\MainWindow.baml
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\MainWindow.g.cs
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\App.g.cs
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.cache
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.g.resources
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.Properties.Resources.resources
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.csproj.GenerateResource.Cache
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.exe
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.pdb
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Daily_reg.baml
+C:\Users\Toy\Documents\Visual Studio 2013\Projects\Wpf_Admin\Wpf_Admin\obj\Debug\Daily_reg.g.cs
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.exe.config
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.exe
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.pdb
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.exe
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.pdb
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.csprojResolveAssemblyReference.cache
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Daily_reg.baml
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\MainWindow.baml
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Daily_reg.g.cs
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\MainWindow.g.cs
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\App.g.cs
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.cache
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.g.resources
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.Properties.Resources.resources
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.csproj.GenerateResource.Cache
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\bin\Debug\MySql.Data.dll
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\login.g.cs
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.lref
+C:\Users\CSididzha\Downloads\Wpf_Admin\Wpf_Admin\Wpf_Admin\obj\Debug\login.baml
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.exe.config
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.exe
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.pdb
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.exe
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\bin\Debug\Wpf_Admin.pdb
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\bin\Debug\MySql.Data.dll
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.csprojResolveAssemblyReference.cache
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Daily_reg.baml
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\MainWindow.baml
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Daily_reg.g.cs
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\MainWindow.g.cs
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\App.g.cs
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.cache
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.g.resources
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.Properties.Resources.resources
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin.csproj.GenerateResource.Cache
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin_Content.g.cs
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\bin\Debug\EntityFramework.dll
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\bin\Debug\EntityFramework.xml
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Login.g.cs
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.lref
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\Login.baml
+C:\Users\CSididzha\Desktop\485\Wpf_Admin\Wpf_Admin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\bin\Debug\Wpf_Admin.exe.config
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin.exe
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin.pdb
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\bin\Debug\Wpf_Admin.exe
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\bin\Debug\Wpf_Admin.pdb
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\bin\Debug\EntityFramework.dll
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\bin\Debug\MySql.Data.dll
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\bin\Debug\EntityFramework.xml
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin.csprojResolveAssemblyReference.cache
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\MainWindow.baml
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Daily_reg.g.cs
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Login.g.cs
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\MainWindow.g.cs
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\App.g.cs
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin_Content.g.cs
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.cache
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.lref
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Daily_reg.baml
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Login.baml
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin.g.resources
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin.Properties.Resources.resources
+C:\Users\kditlhage\Desktop\wpf..admin\Wpf_Admin\obj\Debug\Wpf_Admin.csproj.GenerateResource.Cache
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\MainWindow.baml
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Daily_reg.g.cs
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Login.g.cs
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\MainWindow.g.cs
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\App.g.cs
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin_Content.g.cs
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.cache
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin_MarkupCompile.lref
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\bin\Debug\Wpf_Admin.exe.config
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\bin\Debug\Wpf_Admin.exe
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\bin\Debug\Wpf_Admin.pdb
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\bin\Debug\EntityFramework.dll
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\bin\Debug\MySql.Data.dll
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\bin\Debug\EntityFramework.xml
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Daily_reg.baml
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Login.baml
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin.g.resources
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin.Properties.Resources.resources
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin.csproj.GenerateResource.Cache
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin.exe
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin.pdb
+C:\Users\kditlhage\Desktop\our project\Wpf_Admin\obj\Debug\Wpf_Admin.csprojResolveAssemblyReference.cache
